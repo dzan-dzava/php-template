@@ -1,0 +1,34 @@
+{
+  "ge": {
+    "Copyright": "ყველა უფლება დაცულია",
+    "DatabaseIsEmpty": "მონაცემთა ბაზა ცარიელია",
+    "ContactForm": {
+      "Labels": {
+        "Name": "სახელი",
+        "Email": "ელ-ფოსტა",
+        "Text": "ტექსტი"
+      },
+      "Alerts": {
+        "RequiredField": "აუცილებელი ველი",
+        "InvalidEmail": "შეიყვანე ელ-ფოსტა მართებულად"
+      },
+      "Button": "გაგზავნა"
+    }
+  },
+  "en": {
+    "Copyright": "All rights reserved",
+    "DatabaseIsEmpty": "Database is empty",
+    "ContactForm": {
+      "Labels": {
+        "Name": "Name",
+        "Email": "Email",
+        "Text": "Text"
+      },
+      "Alerts": {
+        "RequiredField": "Required Field",
+        "InvalidEmail": "Enter the mail correctly"
+      },
+      "Button": "Send"
+    }
+  }
+}

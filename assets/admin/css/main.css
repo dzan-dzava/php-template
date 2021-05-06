@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Noto Sans Georgian';
+  src: url('../fonts/NotoSansGeorgian-Thin.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans Georgian';
+  src: url('../fonts/NotoSansGeorgian-Light.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans Georgian';
+  src: url('../fonts/NotoSansGeorgian-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans Georgian';
+  src: url('../fonts/NotoSansGeorgian-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans Georgian';
+  src: url('../fonts/NotoSansGeorgian-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Noto Sans Georgian';
+  src: url('../fonts/NotoSansGeorgian-Black.ttf');
+  font-weight: 900;
+  font-style: normal;
+}
+
+body,
+.tooltip,
+.popover,
+.gritter-item-wrapper .gritter-item {
+  font-family: 'Noto Sans Georgian', Arial, sans-serif;
+}
+
+.be-top-header .navbar-header .navbar-brand {
+  background-image: url('../../img/logo.png');
+  background-size: 45%;
+}
+
+.be-user-nav > li.dropdown .dropdown-menu .user-info {
+  padding: 20px 15px;
+}
+.be-user-nav > li.dropdown .dropdown-menu .user-info .user-name {
+  line-height: 23px;
+}
+
+.be-left-sidebar .sidebar-elements > li ul li > a {
+  padding-left: 20px;
+}
